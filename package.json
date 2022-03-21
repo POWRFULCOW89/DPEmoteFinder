@@ -1,0 +1,21 @@
+{
+  "name": "dpemotefinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POWRFULCOW89/DPEmoteFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/POWRFULCOW89/DPEmoteFinder/issues"
+  },
+  "homepage": "https://github.com/POWRFULCOW89/DPEmoteFinder#readme"
+}
